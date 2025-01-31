@@ -1,3 +1,6 @@
+## a cloud guru hands-lab : 
+# Stage a .NET Web App Using App Service Deployment Slots and Azure CLI
+
 # use [shift + inser] to past item in the cloud shell terminal, ctrl+C doesn't works
 ## astuce pour forcer le cloud shell à passer en mode powershell classique et eviter de perdre les variables d'environnement
 code .
